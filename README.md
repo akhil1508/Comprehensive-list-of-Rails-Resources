@@ -10,7 +10,7 @@
 ## Tutorials
 * [The Odin Project - A full fledged awesome rails tutorial that will take you from zero to a badass RoR web developer(apart from rails, this tutorial teaches one Ruby, HTML, CSS, HTTP and much more too)](http://theodinproject.com/)
 
-* [Michael Hartl's excellent book on Rails] (https://www.railstutorial.org/book/beginning)
+* [Michael Hartl's excellent book on Rails](https://www.railstutorial.org/book/beginning)
 
 ## Videos
 
