@@ -1,6 +1,6 @@
-# List of Rails resources
+# List of free Rails resources
 
-#### This repository contains a list of links leading to rails books, videos, tutorials, documentation and more.
+#### This repository contains a list of links leading to free rails books, videos, tutorials, documentation and more.
 
 ## Documentation and official guides
 * The official Ruby on Rails guide: http://guides.rubyonrails.org/ 
